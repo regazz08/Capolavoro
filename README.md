@@ -1,0 +1,2 @@
+Per scaricare il file app.py, apri la pagina index.html con un browser e clicca sul pulsante "Download". Verrai reindirizzato alla pagina download.html, dove potrai cliccare sull’immagine del bottone per avviare il download del file compresso app.zip. Una volta scaricato, estrai il contenuto del file .zip, quindi apri il file con un programma in grado di eseguirlo ed eseguilo nel terminale
+Assicurati di avere Python installato sul tuo computer.
